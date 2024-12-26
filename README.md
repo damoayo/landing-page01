@@ -7,7 +7,7 @@ HTML, CSS, JavaScript를 사용한 반응형 포트폴리오 웹사이트
 [![skillicons](https://skillicons.dev/icons?i=html,css,javascript,scrollreveal,typed.js)](https://skillicons.dev) <br>
 
 Other features:
-scrollreveal 애니메이션을 사용했습니다.
+scrollreveal 애니메이션을 사용했습니다. <br>
 typed.js로 타이핑 효과를 주었습니다.
 
 ## 이 포트폴리오 웹사이트의 주요 특징:
