@@ -1,4 +1,4 @@
-HTML, CSS, JavaScript를 사용한 반응형 포트폴리오 웹사이트
+# HTML, CSS, JavaScript를 사용한 반응형 포트폴리오 웹사이트
 
 <img src="./assets/images/main.png" alt="main 캡쳐사진" width="500px" />
     
